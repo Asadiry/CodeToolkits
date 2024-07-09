@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 # CodeToolkits
-=======
-# CodeToolkits
->>>>>>> repo init
+
+This is a codebase for self-use-purpose.
