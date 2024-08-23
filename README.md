@@ -11,3 +11,6 @@ This is a codebase for self-use-purpose.
 - download_fasta_from_ena.py: download ccds fasta format data from ENA database. It needs id2ccdsid preprocess which may get from mapping_id_by_uniprot.py
 
 - matching_and_truncating.py: use Smith-waterman algorithm to match cds sequence and protein sequence. save the data item which the matching score is over than threshold.   
+
+## linux scripts useful functions
+- random_port.sh: random a port which is still not used
